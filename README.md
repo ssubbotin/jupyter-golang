@@ -1,0 +1,1 @@
+Running: `docker run -it -p8888:8888 ssubbotin/jupyter-golang`
